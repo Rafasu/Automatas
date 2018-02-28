@@ -1,0 +1,47 @@
+El formato de entrada es el siguiente: 
+*Alfabeto 
+*Patrón 
+*Cadena
+-----------------------------------------------
+La salida muestra el número de veces que el patrón se encuentra en la cadena sobre el alfabeto dado.
+Ejemplos: 
+
+1. Testing Case 1:
+
+Input
+ab
+abba
+baabbabbaaba
+
+Expected Output
+2
+
+2. Testing Case 2:
+
+Input
+ab
+aabab
+aaababaabaababaab
+
+Expected Output
+2
+
+3.Testing Case 3:
+
+Input
+xy
+xxx
+xxxxxxxxxxxxx
+
+Expected Output
+11
+
+4. Testing Case 4:
+
+Input
+xyz
+zyx
+zyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyxzyx
+
+Expected Output
+20
